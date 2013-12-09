@@ -18,3 +18,10 @@ function tiny_remove_menus() {
     $page = remove_submenu_page( 'upload.php', 'ewww-image-optimizer-bulk' );
 }
 add_action( 'admin_menu', 'tiny_remove_menus', 999 );
+
+function tiny_remove_admin_bar_nodes() {
+    // Hide WP Logo from the admin bar
+    global $wp_admin_bar;
+    $wp_admin_bar->remove_node( 'wp-logo' );
+}
+add_action( 'admin_bar_menu', 'tiny_remove_admin_bar_nodes', 999 );
