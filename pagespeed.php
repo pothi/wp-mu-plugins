@@ -62,6 +62,11 @@ class AutoVersioning {
         return array($url, $version);
     }
 
+    /**
+     * @param string $url
+     *
+     * @return string
+     */
     private static function guess_filename_from_url($url) {
         $url_mappings = array(
             plugins_url() => WP_PLUGIN_DIR,
