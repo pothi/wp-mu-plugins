@@ -1,10 +1,10 @@
 <?php
 
 /*
- * Plugin Name: Pagespeed compatibility
+ * Plugin Name: Auto Versioning Support
  * Plugin URI:  https://github.com/pothi/wordpress-mu-plugins
- * Version:     0.1
- * Description: Add support for Pagespeed as a module or as a service
+ * Version:     0.2
+ * Description: Support for automating versioning of CSS and JS files
  * Author Name: Pothi Kalimuthu
  * Author URI:  http://pothi.info
  */
