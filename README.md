@@ -1,11 +1,8 @@
-wordpress-mu-plugins
-====================
+# WordPress MustUse Plugins
 
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/pothi/wordpress-mu-plugins/badges/quality-score.png?s=ac02f61612c08a528eee0b9f8acc898b3d572562)](https://scrutinizer-ci.com/g/pothi/wordpress-mu-plugins/)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/pothi/wp-mu-plugins/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/pothi/wp-mu-plugins/?branch=main)
 
-WordPress Must Use Plugins
-
-There are the plugins that you can place in [mu-plugins](http://codex.wordpress.org/Must_Use_Plugins) directory.
+There are the plugins that you can place in [mu-plugins](https://developer.wordpress.org/advanced-administration/plugins/mu-plugins/) directory.
 
 For explanation of individual plugins, please look at the description field in the plugin.
 
