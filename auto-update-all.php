@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: Auto update everything in a WordPress site
- * Plugin URI:  https://github.com/pothi/wordpress-mu-plugins
- * Version:     0.1
+ * Plugin URI:  https://github.com/pothi/wp-mu-plugins
+ * Version:     0.2
  * Description: Automatically update WP core (including major versions), themes, and plugins
  * Author:      Pothi Kalimuthu
- * Author URI:  http://pothi.info
+ * Author URI:  https://tinywp.com
  * License:     GPL
  */
 
